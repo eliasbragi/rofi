@@ -1,0 +1,10 @@
+/* Modus-Vivendi-Tritanopia2 */
+* {
+    background:     rgba(15, 15, 23, 0.85);     /* bg_main (matches dark Waybar background) */
+    background-alt: rgba(15, 15, 23, 0.85);     /* bg_dim (slightly lighter background) */
+    foreground:     #A1BDCE;     /* fg_main (main text color) */
+    selected:       rgba(255, 255, 255, 0.1); /* bg_mode_line (semi-transparent selection) */
+    selected-fg:    #FFFFFF;     /* fg_mode_line (highlighted item text) */
+    active:         rgba(15, 15, 23, 0.85);     /* g_green (for active state color) */
+    urgent:         #E4C9AF;     /* red (urgent item color to match highlights) */
+}
